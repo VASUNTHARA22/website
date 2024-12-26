@@ -176,7 +176,14 @@ Publish the website in the given URL.
 
 ![image](https://github.com/user-attachments/assets/f82c8692-b894-4ab5-accc-2752a1c02406)
 
-![image](https://github.com/user-attachments/assets/6edb5d00-1fe7-4c81-a83c-140c0a832d9d)
+![Blue and Yellow Modern Medical Clinic Contact Us Desktop Prototype](https://github.com/user-attachments/assets/c9df3321-982a-4e2b-a53c-4e4eada74957)
+
+![Beige Minimalist Team Members Instagram Post (1)](https://github.com/user-attachments/assets/eb4d0dc9-a4f4-4960-906a-4919bb4095d3)
+
+![t1](https://github.com/user-attachments/assets/bc41f658-804e-4bc6-9d84-1e955a0ec98f)
+
+
+
 
 # RESULT:
 The program for designing software company website using HTML and CSS is completed successfully.
